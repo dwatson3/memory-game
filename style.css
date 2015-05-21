@@ -1,0 +1,69 @@
+.images {
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.js {
+	background: url("http://www.w3devcampus.com/wp-content/uploads/logoAndOther/logo_JavaScript.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	/*width: 100%;
+	height: 100%;*/
+}
+
+.ruby {
+	background: url("http://zohararad.github.io/presentations/falling-in-love-with-ruby/presentation/images/ruby.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.python {
+	background: url("http://zeblog.co/wp-content/uploads/2011/06/Python.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.java {
+	background: url("https://www.cloudcms.com/images/drivers/java/java.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.c_language {
+	background: url("http://www.unixstickers.com/image/cache/data/stickers/C/C.sh-600x600.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.c_plus {
+	background: url("http://www.unixstickers.com/image/cache/data/stickers/C/C.sh-600x600.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.php {
+	background: url("http://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.objective_c {
+	background: url("http://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+/*.Pretty_Room {
+ background: url("http://bleubirdblog.com/wp-content/uploads/2015/05/10.jpg"); 
+/* height: 300px;*/
+/* width: 30%;
+}*/
+
+/*
+.Shoe_Woman {
+background: url("http://bleubirdblog.com/wp-content/uploads/2015/04/30b.jpg");
+width: 30%;*/
+/*height: 300px;
+width: 300px;*/
+/*}
+*/
